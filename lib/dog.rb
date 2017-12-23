@@ -1,0 +1,3 @@
+class Dog
+  acc
+end
