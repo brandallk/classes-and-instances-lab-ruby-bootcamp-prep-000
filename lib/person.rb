@@ -20,3 +20,4 @@ adele_goldberg = Person.new
 alan_kay = Person.new
 
 puts adele_goldberg.id
+puts alan_kay.id
