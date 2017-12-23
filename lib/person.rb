@@ -19,13 +19,9 @@ end
 adele_goldberg = Person.new
 alan_kay = Person.new
 
-puts adele_goldberg.id
-puts alan_kay.id
-adele_goldberg.worked_at = "Xerox"
-puts adele_goldberg.worked_at
-alan_kay.worked_at=("same place")
-puts alan_kay.worked_at
-
-
-
-
+# puts adele_goldberg.id
+# puts alan_kay.id
+# adele_goldberg.worked_at = "Xerox"
+# puts adele_goldberg.worked_at
+# alan_kay.worked_at=("same place")
+# puts alan_kay.worked_at
