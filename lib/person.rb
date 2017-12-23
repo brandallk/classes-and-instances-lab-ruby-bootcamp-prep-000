@@ -21,3 +21,9 @@ alan_kay = Person.new
 
 puts adele_goldberg.id
 puts alan_kay.id
+adele_goldberg.worked_at = "Xerox"
+puts adele_goldberg.worked_at
+
+
+
+
